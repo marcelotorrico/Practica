@@ -1,0 +1,17 @@
+.jumbotron{
+    background: #428BCA;
+    color: #fff;
+    padding: 1px 0;
+}
+
+.formulario{
+    margin-left:350px; //aqui centra
+}
+
+.container .addonGroup{
+    width: 183px;
+}
+
+.container .form{
+    width: 400px;
+}
